@@ -1,3 +1,8 @@
+Convex: https://www.convex.dev
+Clerk: https://dub.sh/7gFtfQb
+Edgestore: https://edgestore.dev
+Trunk: https://tinyurl.com/trunkcheck
+
 This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind |
 Key Features:
 
